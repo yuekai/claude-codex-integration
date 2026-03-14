@@ -1,5 +1,5 @@
 {
-  "name": "codex-integration",
+  "name": "claude-codex-integration",
   "version": "1.0.0",
   "description": "Integrates OpenAI Codex as a plan reviewer and code implementer for Claude Code"
 }

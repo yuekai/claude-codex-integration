@@ -1,4 +1,4 @@
-# Claude Code Codex Plugin
+# Claude Code ↔ Codex Integration Plugin
 
 A Claude Code plugin that integrates OpenAI Codex as a plan reviewer and code implementer.
 
